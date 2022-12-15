@@ -8,5 +8,5 @@ def cacul(sq):
 
 
 
-cacul(2)
+cacul(63)
 print(c)

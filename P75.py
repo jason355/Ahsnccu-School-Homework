@@ -1,4 +1,4 @@
-# 我是林珈生
+# 我是林珈生  P75
 
 def change(a, i, j):
     temp = a[i]

@@ -1,3 +1,5 @@
+#我是林珈生
+
 def swap(dataN, x, y):
     temp = dataN[x]
     dataN[x] = dataN[y]
