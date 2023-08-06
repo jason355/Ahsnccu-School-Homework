@@ -1,0 +1,3 @@
+# Ahsnccu-School-Homework 
+## 不想面對資訊作業嗎?
+## 有需要就用吧...
